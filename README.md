@@ -8,6 +8,10 @@ Main site for BotUI
 
 [Main Site](https://botui.org) - [Read Docs](https://docs.botui.org) - [Examples](https://github.com/moinism/botui-examples)
 
+## Demo
+
+[Demo mybotui](https://airqz.github.io/mybotui/)
+
 
 ### License
 
